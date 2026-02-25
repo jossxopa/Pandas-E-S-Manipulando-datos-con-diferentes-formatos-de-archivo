@@ -31,6 +31,10 @@ Para que el notebook funcione correctamente, asegúrate de tener los archivos en
 * `pacientes_2.json`: Dataset anidado para ejercicios de normalización.
 * *(Cualquier otro archivo .sql o .xml que utilices en tus celdas).*
 
+## 📊 Notas sobre el Dataset
+Debido al tamaño del archivo de clientes (>25MB), este se encuentra comprimido en formato `.zip`. 
+El notebook está configurado para leerlo cuando el archivo se descomprima.
+
 ## 🛠️ Requisitos
 
 Si deseas ejecutar este notebook localmente, necesitarás:
